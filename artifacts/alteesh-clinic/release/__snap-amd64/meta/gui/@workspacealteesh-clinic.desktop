@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Alteesh Clinic
+Exec=@workspacealteesh-clinic %U
+Terminal=false
+Type=Application
+Icon=${SNAP}/meta/gui/icon.png
+StartupWMClass=Alteesh Clinic
+Categories=Utility;

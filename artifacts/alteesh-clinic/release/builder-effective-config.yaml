@@ -1,0 +1,17 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.alteesh.clinic
+productName: Alteesh Clinic
+executableName: AlteeshClinic
+files:
+  - filter:
+      - dist/public/**
+      - dist-electron/**
+win:
+  target:
+    - nsis
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+electronVersion: 44.4.4

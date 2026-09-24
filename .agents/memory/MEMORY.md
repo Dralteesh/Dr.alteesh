@@ -1,0 +1,1 @@
+- [Offline wrapper packaging](offline-packaging.md) — Android sync works in-workspace; Windows NSIS needs Windows or Wine to finish the installer.
